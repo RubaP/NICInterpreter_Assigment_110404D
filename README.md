@@ -1,4 +1,4 @@
-bmi-calculator
+NICInterpreter_Assignment
 ==============
 
-maven webapp sample - bmi calculator
+maven webapp sample - NICInterpreter_Assignment
