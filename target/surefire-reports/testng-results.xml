@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="cse.maven.sample.NICInterpreterTest" duration-ms="495" started-at="2013-09-12T04:24:27Z" finished-at="2013-09-12T04:24:28Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="495" started-at="2013-09-12T04:24:27Z" finished-at="2013-09-12T04:24:28Z">
+      <class name="cse.maven.sample.NICInterpreterTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:cse.maven.sample.NICInterpreterTest@79ad9c]" name="setUp" is-config="true" duration-ms="50" started-at="2013-09-12T09:54:27Z" finished-at="2013-09-12T09:54:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNICTest1()[pri:0, instance:cse.maven.sample.NICInterpreterTest@79ad9c]" name="createNICTest1" duration-ms="394" started-at="2013-09-12T09:54:27Z" finished-at="2013-09-12T09:54:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNICTest1 -->
+        <test-method status="PASS" signature="createNICTest2()[pri:0, instance:cse.maven.sample.NICInterpreterTest@79ad9c]" name="createNICTest2" duration-ms="2" started-at="2013-09-12T09:54:28Z" finished-at="2013-09-12T09:54:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNICTest2 -->
+        <test-method status="PASS" signature="createNICTest3()[pri:0, instance:cse.maven.sample.NICInterpreterTest@79ad9c]" name="createNICTest3" duration-ms="1" started-at="2013-09-12T09:54:28Z" finished-at="2013-09-12T09:54:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNICTest3 -->
+        <test-method status="PASS" signature="createNICTest4()[pri:0, instance:cse.maven.sample.NICInterpreterTest@79ad9c]" name="createNICTest4" duration-ms="1" started-at="2013-09-12T09:54:28Z" finished-at="2013-09-12T09:54:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNICTest4 -->
+        <test-method status="PASS" signature="createNICTest5()[pri:0, instance:cse.maven.sample.NICInterpreterTest@79ad9c]" name="createNICTest5" duration-ms="1" started-at="2013-09-12T09:54:28Z" finished-at="2013-09-12T09:54:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNICTest5 -->
+      </class> <!-- cse.maven.sample.NICInterpreterTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- cse.maven.sample.NICInterpreterTest -->
+</testng-results>
